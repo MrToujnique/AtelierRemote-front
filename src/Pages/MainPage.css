@@ -1,0 +1,33 @@
+.col-lg-4 {
+  text-align: center;
+}
+
+.rounded-circle {
+  width: 140px;
+  height: 140px;
+}
+
+.carouselTitle {
+  font-size: 48px;
+  -webkit-text-stroke: 0.5px black;
+  text-shadow: 1px 1px black;
+}
+
+.carouselSubtitle {
+  font-size: 36px;
+  -webkit-text-stroke: 0.5px black;
+  text-shadow: 1px 1px black;
+}
+
+.chefsContainer {
+  margin-top: 16px;
+}
+
+.ourChefs {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.row {
+  margin-top: 32px;
+}
